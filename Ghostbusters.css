@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    border-color: red;
+    background-color: rgb(49, 49, 49);
+    float: right;
+}
+
+p{
+    color: white;
+    float: right;
+    margin-right: 20px;
+    margin-left: 800px;
+}
+
+a{
+    color: red;
+
+}
+
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
+
+img {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+img, p, h1{
+    display: inline-block;
+}

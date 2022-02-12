@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: red;
+
+}
+
+button:focus {
+    outline: 0;
+}
+
+.navbar .dropdown-menu .form-control {
+    width: 200px;
+}
